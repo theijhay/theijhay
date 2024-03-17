@@ -4,7 +4,7 @@
 <img alt="Jhoan Zamora | Gmail" width="320px" src="https://github.com/jzamora5/jzamora5/blob/main/assets/GreetingWhiteCrop.png?raw=true" />
 </p>
 
-I am a passionate and hard working full stack software developer from [Colombia](https://www.google.com/maps/place/Colombia/@4,-72z/) <img alt="ColombiaFlag" width="18px" src="https://raw.githubusercontent.com/jzamora5/jzamora5/52b8b4734db718550426b542b0cf97ff437f791f/assets/colombiaFlag.svg" />. I love to learn new things everyday and my main focus in technology is Web Development 🌎. My favorite programming languages are JavaScript and Python, but coding itself is pretty fun for me.
+I am a passionate and hard working full stack software engineer from [Nigeria](https://www.google.com/maps/place/Nigeria/@4,-72z/) . I love to learn new things everyday and my main focus is in Backend 🌎.But coding itself is pretty fun for me and I love the challenge!
 
  <a href="https://www.linkedin.com/in/olawaleisaac/">
     <img align="left" alt="Jhoan Zamora | Linkedin" width="24px" src="https://raw.githubusercontent.com/jzamora5/jzamora5/04b0572610c3e8857c85f9dc58126d8d95705a8e/assets/Linkedin.svg" />
