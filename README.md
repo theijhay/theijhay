@@ -4,7 +4,7 @@
 <img alt="Jhoan Zamora | Gmail" width="320px" src="https://github.com/jzamora5/jzamora5/blob/main/assets/GreetingWhiteCrop.png?raw=true" />
 </p>
 
-I am a passionate and hard working software engineer from [Nigeria](https://www.google.com/maps/place/Nigeria/@4,-72z/) . I love to learn new things everyday and my main focus is in Backend 🌎.But coding itself is pretty fun for me and I love the challenge!
+I am a dedicated and passionate software engineer from [Nigeria](https://www.google.com/maps/place/Nigeria/@4,-72z/) with a strong focus on backend development. I am constantly driven by a desire to learn new technologies and improve my skills on a daily basis. Coding presents an exciting challenge for me, and I genuinely enjoy solving complex problems and building efficient solutions.
 
  <a href="https://www.linkedin.com/in/olawaleisaac/">
     <img align="left" alt="Jhoan Zamora | Linkedin" width="24px" src="https://raw.githubusercontent.com/jzamora5/jzamora5/04b0572610c3e8857c85f9dc58126d8d95705a8e/assets/Linkedin.svg" />
