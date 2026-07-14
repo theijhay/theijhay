@@ -4,7 +4,22 @@
 <img alt="Jhoan Zamora | Gmail" width="320px" src="https://github.com/jzamora5/jzamora5/blob/main/assets/GreetingWhiteCrop.png?raw=true" />
 </p>
 
-I am a dedicated and passionate software engineer from [Nigeria](https://www.google.com/maps/place/Nigeria/@4,-72z/) with a strong focus on backend development. I am constantly driven by a desire to learn new technologies and improve my skills on a daily basis. Coding presents an exciting challenge for me, and I genuinely enjoy solving complex problems and building efficient solutions.
+I’m a backend engineer focused on building scalable, high-performance systems for transactional and data-intensive platforms.
+My work centers around designing and operating event-driven architectures, microservices, and APIs that handle real-time operations reliably at scale. I’ve built systems involving payment flows, role-based access control, and distributed services, using technologies like Python (FastAPI, Django), TypeScript (Node.js, NestJS), PostgreSQL, Redis, and message queues such as RabbitMQ.
+
+I’ve led the development of backend systems that:
+• Reduced system downtime by 20% through improved reliability and fault-tolerant design
+• Improved query performance by 35% via indexing, caching, and database optimization
+• Increased data accuracy by 30% across financial and operational workflows
+
+Beyond implementation, I contribute to architecture decisions, system design, and performance optimization, while also supporting team productivity through code reviews and collaboration.
+
+I’m particularly interested in working on:
+• Fintech and high-volume transactional systems
+• Distributed systems and data infrastructure
+• AI-driven or automation-heavy backend platforms
+
+I work effectively in distributed teams and am available for global remote roles, including contract or EOR arrangements, with overlap across US time zones.
 
  <a href="https://www.linkedin.com/in/olawaleisaac/">
     <img align="left" alt="Jhoan Zamora | Linkedin" width="24px" src="https://raw.githubusercontent.com/jzamora5/jzamora5/04b0572610c3e8857c85f9dc58126d8d95705a8e/assets/Linkedin.svg" />
